@@ -20,8 +20,22 @@ export const DivTitleStyle = styled.header`
     background-color: var(--bluePurpleLight);
     display:flex;
     flex-direction:column;
-    justify-content:space-between;
-    align-items:center;
-    padding:0 15px;
+    justify-content:space-around;
+    align-items:flex-start;
+    padding:5px 15px;
     color:black;
+    h2{
+        font-size:27px;
+        /* color:var(--grey); */
+        /* font-weight:400; */
+    }
+    span{
+        font-size:12px;
+        color:var(--grey)
+    }
+    h3{
+        font-size:14px;
+        color:var(--grey);
+        font-weight:400;
+    }
 `

@@ -14,9 +14,8 @@ const Header = () => {
             </NavStyle>
             <DivTitleStyle>
                 <span>Path</span>
-                <h2>Desenvolvimento</h2>
+                <h2>Desenvolvimento WordPress</h2>
                 <h3>Desenvolva seu negócio com WordPress</h3>
-
             </DivTitleStyle>
             
         </header>
